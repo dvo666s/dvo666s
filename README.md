@@ -7,3 +7,22 @@
 - Building projects to strengthen programming fundamentals.
 - Using Linux as my main development environment.
 <!--END_SECTION:now-building-->
+
+## 🧠 Learning Journey
+
+```text
+C++
+ ↓
+OOP
+ ↓
+Data Structures
+ ↓
+Algorithms
+ ↓
+Problem Solving
+ ↓
+PHP
+ ↓
+Laravel
+ ↓
+Backend Projects
