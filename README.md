@@ -7,7 +7,7 @@ Backend Developer in Progress • C++ Learner • Computer Science Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Development+%7C+PHP+%26+Laravel;Learning+C%2B%2B+%26+Object-Oriented+Programming;Data+Structures+%26+Algorithms;Building+Strong+Computer+Science+Fundamentals" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Development+%7C+PHP+%26+Laravel;Learning+C%2B%2B+%26+Object-Oriented+Programming;Data+Structures+%26+Algorithms;Building+Strong+Computer+Science+Fundamentals" />
 </p>
 
 ---
@@ -28,7 +28,7 @@ I'm especially interested in understanding how software works **under the hood**
 
 ## 🚀 Current Journey
 
-<img align="right" src="[https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zm9ldXU1NzMwMjMwMDc0amZ1OXZ4bW0xdXk5M2xjY3RvZzk1NWRlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LlqCSOe3zi65vfErwS/giphy.gif)" />
+<img align="right" src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zm9ldXU1NzMwMjMwMDc0amZ1OXZ4bW0xdXk5M2xjY3RvZzk1NWRlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LlqCSOe3zi65vfErwS/giphy.gif" />
 
 ```text
 C++
