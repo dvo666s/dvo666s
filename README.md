@@ -111,8 +111,8 @@ More projects will be added as I progress through:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=0xVos&show_icons=true&theme=default"
-    alt="0xVos GitHub Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=0xVos"
+    alt="GitHub Streak"
   />
 </p>
 
