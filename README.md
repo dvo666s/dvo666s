@@ -28,7 +28,7 @@ I'm especially interested in understanding how software works **under the hood**
 
 ## 🚀 Current Journey
 
-<img align="right" src=https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zm9ldXU1NzMwMjMwMDc0amZ1OXZ4bW0xdXk5M2xjY3RvZzk1NWRlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LlqCSOe3zi65vfErwS/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zm9ldXU1NzMwMjMwMDc0amZ1OXZ4bW0xdXk5M2xjY3RvZzk1NWRlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LlqCSOe3zi65vfErwS/giphy.gif" />
 
 ```text
 C++
