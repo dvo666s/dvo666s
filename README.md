@@ -15,7 +15,7 @@ $\color{#ff0000}{\Large\texttt{./focusing\ on\ problem\ solving\ and\ core\ CS\ 
 ---
 
 ## Coding Practice
-[![Codewars](https://www.codewars.com/users/Dalvos/badges/large)](https://www.codewars.com/users/Dalvos)
+![Codewars](https://www.codewars.com/users/Dalvos/badges/large)
 ---
 
 ## Tech Stack
