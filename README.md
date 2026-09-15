@@ -8,8 +8,13 @@
 
 ## About
 
-I'm a backend developer , currently strengthening my programming and computer science, and also moving toward **PHP and Laravel** for backend development, and I'm interested in understanding how software works under the hood, with a particular interest in **Linux, systems, security, and low-level programming**.
+I'm a backend developer, currently strengthening my programming and computer science, and also moving toward **PHP and Laravel** for backend development, and I'm interested in understanding how software works under the hood, with a particular interest in **Linux, systems, security, and low-level programming**.
 
+---
+
+## Coding Practice
+
+[![Codewars](https://www.codewars.com/users/Dalvos/badges/large)](https://www.codewars.com/users/Dalvos)
 ---
 
 ## Tech Stack
@@ -25,3 +30,4 @@ I'm a backend developer , currently strengthening my programming and computer sc
 ---
 
 <p align="center"> <i>Build. Break. Debug. Understand.</i> </p>
+
