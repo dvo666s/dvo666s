@@ -8,9 +8,9 @@
 
 ## About
 
-<strong> Backend Developer focused on building solid foundations in Computer Science.  
+Backend Developer focused on building solid foundations in Computer Science.  
 Transitioning toward PHP and Laravel.  
-Deep interest in Linux, systems, security, low-level programming, mathematics, and physics.</strong>
+Deep interest in Linux, systems, security, low-level programming, mathematics, and physics.
 
 ---
 
