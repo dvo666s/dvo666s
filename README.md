@@ -28,7 +28,7 @@ $\color{#ff0000}{\texttt{./build.sh}}\
 
 ---
 
-<img src="./whiplash.gif" width="280">
+<img src="/whiplash.gif" width="280">
 
 <p align="center"> <i>Build. Break. Debug. Understand.</i> </p>
 
