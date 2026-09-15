@@ -1,5 +1,4 @@
 <h1 align="center">dvo666s</h1>
-
 <p align="center">
   <strong>Backend Developer</strong>
 </p>
@@ -7,24 +6,19 @@
 ---
 
 ## About
-
 Backend Developer focused on building solid foundations in Computer Science.  
 Transitioning toward PHP and Laravel.  
 Deep interest in Linux, systems, security, low-level programming, mathematics, and physics.
-
----
 
 $\color{#ff0000}{\Large\texttt{./focusing\ on\ problem\ solving\ and\ core\ CS\ concepts.sh}}$
 
 ---
 
 ## Coding Practice
-
 [![Codewars](https://www.codewars.com/users/Dalvos/badges/large)](https://www.codewars.com/users/Dalvos)
 ---
 
 ## Tech Stack
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
@@ -35,5 +29,5 @@ $\color{#ff0000}{\Large\texttt{./focusing\ on\ problem\ solving\ and\ core\ CS\ 
 
 ---
 
-> <p align="center"> <i>Build. Break. Debug. Understand.</i> </p>
+<p align="center"> <i>Build. Break. Debug. Understand.</i> </p>
 
