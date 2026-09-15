@@ -10,7 +10,9 @@ Backend Developer focused on building solid foundations in Computer Science.
 Transitioning toward PHP and Laravel.  
 Deep interest in Linux, systems, security, low-level programming, mathematics, and physics.
 
-$\color{#ff0000}{\Large\texttt{./focusing\ on\ problem\ solving\ and\ core\ CS\ concepts.sh}}$
+$\color{#ff0000}{\texttt{./build.sh}}\ 
+\color{#ffff00}{\texttt{--focus}}\ 
+\color{#00ff00}{\texttt{="problem solving, core CS concepts"}}$
 
 ---
 
