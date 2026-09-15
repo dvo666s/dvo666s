@@ -8,8 +8,8 @@
 
 ## About
 
-I'm a backend developer, currently strengthening my programming and computer science, and also moving toward **PHP and Laravel** for backend development, and I'm interested in understanding how software works under the hood, with a particular interest in **Linux, systems, security, and low-level programming**.
-
+Backend Developer focused on building solid foundations in programming and computer science.  
+Transitioning toward PHP and Laravel, with deep interest in Linux, systems, security, low-level programming, mathematics, and physics.
 ---
 
 ## Coding Practice
