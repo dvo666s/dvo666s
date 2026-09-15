@@ -31,3 +31,5 @@ $\color{#ff0000}{\Large\texttt{./focusing\ on\ problem\ solving\ and\ core\ CS\ 
 
 <p align="center"> <i>Build. Break. Debug. Understand.</i> </p>
 
+> <p align="center"> 01010100 01101000 01100001 01101110 01101011 01110011 </p>
+
